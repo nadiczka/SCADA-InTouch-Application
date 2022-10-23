@@ -2,10 +2,8 @@
 
 ### Project created during studies on University of Science and Technologies in Krakow.
 
-## Project requirements:
--	Build Scada application to supervise and simulate running of the heating room the whole year.
--	The built should assure a set of automatically operated two heaters and one air-conditioner during all seasons.
--	Alarm should be defined as power supply failure.
+## Description:
+Scada application to supervise and simulate running of the heating room the whole year.	The built assures a set of automatically operated two heaters and one air-conditioner during all seasons. Alarm should is defined as power supply failure.
 
 Project was made in the AVEVA InTouch HMI application. This is the world’s most popular HMI/SCADA system for visualization and control of production processes.
 
