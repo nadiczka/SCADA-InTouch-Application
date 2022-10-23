@@ -11,7 +11,7 @@ Project was made in the AVEVA InTouch HMI application. This is the world’s mos
 
 ## Description
 
-![Sample visualisation](https://github.com/nadiczka/SCADA-room-temperature-simulation/blob/main/readme_files/Alarm.png?raw=true)
+![Sample visualisation](https://github.com/nadiczka/SCADA-room-temperature-simulation/blob/main/readme_files/Sample%20visualisation.png?raw=true)
 
 Outside Temperature can be chosen by four buttons . Each button is labelled with a different season and changes temperature to the mean temperature in this season and is:
 -	17°C in spring
